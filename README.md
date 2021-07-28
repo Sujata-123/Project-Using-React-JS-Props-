@@ -1,3 +1,1 @@
-# react-ctcbfd
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ctcbfd)
+React JS Project Using Props
